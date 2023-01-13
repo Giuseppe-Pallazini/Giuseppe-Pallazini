@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Giuseppe
 
+Skills: React.js, JS, Node.j, HTML, CSS
+
 
 
 <!--
