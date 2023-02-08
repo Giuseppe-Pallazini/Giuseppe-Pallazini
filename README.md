@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Giuseppe
 
-Skills:
-  Front-end: HTML, CSS, JavaScript, React.js (API integration);
-  Back-end: Node.js (Api's creation);
-  DataBase: MySql
+- Skills:
+  - Front-end: HTML, CSS, JavaScript, React.js (API integration);
+  - Back-end: Node.js (Api's creation);
+  - DataBase: MySql
 
 <!--
 **Giuseppe-Pallazini/Giuseppe-Pallazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
