@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Giuseppe
 
 - Skills:
-  - Front-end: HTML5, CSS3, JavaScript, React;
+  - Front-end: HTML5, CSS3, BootStrap, JavaScript, React;
   - Back-end: Node.js;
   - DataBase: MySql;
   - UX: Figma;
