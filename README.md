@@ -51,6 +51,12 @@
 </div>
 <br/>
 <div style="display: flex;">
+    <span> Editor de Códigos / IDE: </span>
+    <img style="margin: 0 30px" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    <img style="margin: 0 30px" alt="Visual Studio Code" src="    https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+<br/>
+<div style="display: flex;">
     <span> Organização: </span>
     <img style="margin-left: 30px;" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
